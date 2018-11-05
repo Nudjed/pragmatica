@@ -12,6 +12,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^0.14.4"
+    "tailwindcss": "^0.6.6",
+    "vuepress": "1.0.0-alpha.13"
   }
 }
