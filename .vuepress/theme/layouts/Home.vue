@@ -3,9 +3,9 @@
     <div style="background-image: url('/planet.svg');" class="w-100 h-full bg-right-bottom bg-no-repeat">
       <Navbar v-if="shouldShowNavbar"/>
 
-      <header class="text-white container mx-auto pb-8">
+      <header class="text-white container mx-auto pb-8 px-4">
 
-        <h1 class="font-serif font-semibold text-5xl max-w-xs py-6 border-b-3 border-green leading-tight">
+        <h1 class="font-serif font-semibold text-4xl max-w-xs py-6 border-b-3 border-green leading-tight">
           {{ data.title }}
         </h1>
 
