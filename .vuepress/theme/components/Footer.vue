@@ -1,9 +1,9 @@
 <template>
     <footer class="bg-blue text-grey-lighter font-normal font-sans-serif">
       <div class="container mx-auto text-center border-t-2 border-green mt-8 py-8">
-        <p>Life Sciences Hub, 3 Assembly Square, Cardiff Bay, CF10 4PL</p>
-        <p>Company number: 08500755 | VAT Registration: 237 9256 77</p>
-        <p>Terms of Service | Privacy Policy | Copyright Nudjed Ltd. 2018</p>
+        <p>Springfield House, Springfield Road, Horsham, West Sussex, RH12 2RG</p>
+        <p>Pragmatica Consulting Ltd. is registered in the UK -  06895638</p>
+        <p><a href="/legals" class="text-white no-underline hover:underline hover:text-blue-lighter">Legals</a> | Copyright Pragmatica Consulting Ltd. 2019</p>
       </div>
     </footer>
 </template>

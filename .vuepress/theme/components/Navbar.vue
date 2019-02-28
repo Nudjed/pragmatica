@@ -25,7 +25,7 @@
 
       <div class="nav-item" v-for="item in userLinks" :key="item.link">
         <router-link
-          class="text-xl block mt-4 lg:inline-block lg:mt-0 text-white sm:ml-8 no-underline hover:text-grey-lighter"
+          class="font-serif font-semibold text-xl block mt-4 lg:inline-block lg:mt-0 text-blue-lighter sm:ml-8 no-underline hover:text-grey-lighter hover:underline"
           :to="item.link">
           {{ item.text }}
         </router-link>

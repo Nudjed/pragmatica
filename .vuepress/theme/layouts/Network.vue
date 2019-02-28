@@ -1,43 +1,32 @@
 <template>
-  <div class="font-sans-serif text-smooth bg-blue antialiased leading-normal">
-    <div>
-      <Navbar v-if="shouldShowNavbar"/>
+  <div class="font-sans-serif text-smooth bg-white antialiased leading-normal">
 
-      <header class="md:flex text-white container mx-auto pb-8 px-4">
-<div class="flex-1 md:max-w-xs">
-        <h1 class="font-serif font-semibold text-4xl max-w-xs py-6 border-b-3 border-green leading-tight">
-          {{ data.title }}
-        </h1>
+    <div class="bg-blue">
+      <div style="background-image: url('/city.svg');" class="container mx-auto h-full bg-right-bottom bg-no-repeat">
+        <header class="text-white pb-8 mb-8">
 
-        <p class="font-sans-serif font-medium text-lg max-w-xs py-6">
-          {{ data.description }}
-        </p>
+          <Navbar v-if="shouldShowNavbar"/>
 
-        <p v-if="data.actionText && data.actionLink">
-          <router-link
-            class="no-underline font-serif font-semibold text-lg text-blue block bg-white w-64 py-2 px-4 my-4 mb-8 text-center shadow-green border-2 border-green hover:bg-green hover:shadow-white hover:text-white"
-            :to="actionLink.link">
-              {{ actionLink.text }}
-          </router-link>
-        </p>
-        </div>
-        <div class="flex-1">
-        <img src="/planet.svg">
-        </div>
+          <h1 class="font-serif font-semibold text-5xl max-w-xs py-6 border-b-3 border-green leading-tight">
+            {{ this.$page.frontmatter.title }}
+          </h1>
+          <p class="font-sans-serif font-medium text-lg max-w-xs py-6 pb-8 mb-8">
+            {{ this.$page.frontmatter.description }}
+          </p>
 
-      </header>
-     </div>
+        </header>
+      </div>
+    </div>
 
-
-    <section class="font-sans-serif text-smooth bg-white antialiased leading-normal mx-auto p-4">
-      
-    <h1 class="font-serif font-semibold text-4xl py-6 leading-tight text-center">Build around our Innovation Engine.</h1>
+    <section class="px-4">
+        <h1 class="font-serif font-semibold text-4xl py-6 leading-tight text-center">Build around our Innovation Engine.</h1>
     <p class="text-lg text-center max-w-lg mx-auto pb-6">All organanisations are being transformed by technology. Often this is driven by customers, sometimes by team and occasionally by competition. We get involved when your organisation decides it needs to link these forces together.</p>
     <div class="md:flex">
-    <div class="block bg-white md:flex-1 md:mx-4 py-2 px-4 my-4 mb-8 shadow-green border-2 border-green">
-    <h3 class="font-serif font-semibold text-2xl py-4 leading-tight">A Scalable Platform</h3>
-    <p>Markets are being transformed by technology. Often this is driven by their customers, sometimes by their team and occasionally by their competition. We get involved when you, the leadership decides it’s time for change.</p>
-    <p class="no-underline font-serif font-semibold text-lg text-blue block bg-white my-4 hover:text-blue-lighter hover:underline">Review our platform ></p>
+    <div class="block bg-white md:flex-1 md:mx-4 py-2 px-4 my-4 mb-8 shadow-green border-2 border-green max-w-xs">
+        <img src="/paul-pressshot-sm.png" class="-mt-8 w-48 h-48 rounded-full border-4 border-green mx-auto">
+    <h3 class="font-serif font-semibold text-2xl py-4 leading-tight">Paul Teather - Principle Partner</h3>
+    <p>Paul brings a wealth of experience.</p>
+    <p>Contact Paul</p>
     </div>
     <div class="block bg-white md:flex-1 md:mx-4 py-2 px-4 my-4 mb-8 shadow-green border-2 border-green">
     <h3 class="font-serif font-semibold text-2xl py-4 leading-tight">A Leading Network</h3>
@@ -48,16 +37,11 @@
     <h3 class="font-serif font-semibold text-2xl py-4 leading-tight">A Proven Model</h3>
     <p>Innovation should be measured by the value it creates. We support you to develop the investment model to sustain your own innovation ecosystem. One that supports your organisation to create new capabilities, IP and revenue generation.<p>
     <p class="no-underline font-serif font-semibold text-lg text-blue block bg-white my-4 hover:text-blue-lighter hover:underline">Read more about our ecosystem model ></p>
-    </div>
-    </div>
-
+    </div></div>
     </section>
 
-    <Content custom/>
+    <Content />
 
-    <ContactForm />
-
-    <Footer />
   </div>
 </template>
 

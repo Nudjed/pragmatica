@@ -6,8 +6,7 @@
 
         <div class="p-4 sm:w-1/3 my-4">
           <h3 class="text-white text-left mb-3 text-3xl">Get in touch.</h3>
-          <p class="text-green font-sans-serif font-medium text-left text-base">If you have a digital transformation
-            project, that you’d like some support to deliver, please get in touch with us.</p>
+          <p class="text-green font-sans-serif font-medium text-left text-base">If your organisation wants to drive innovation, we are here to support you.</p>
         </div>
 
         <div class="mx-4 p-4 sm:w-1/3 my-4">
@@ -45,7 +44,7 @@
                 Enquiry
               </label>
               <textarea rows="6" class="appearance-none block w-full bg-grey-lighter text-grey-darker rounded py-3 px-4 font-sans-serif"
-                name="comments" id="comments" type="text" placeholder="What can I help you with?" required></textarea>
+                name="comments" id="comments" type="text" placeholder="Tell us a little about your project" required></textarea>
             </div>
           </div>
 

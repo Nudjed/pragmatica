@@ -10,7 +10,7 @@ module.exports = {
     themeConfig:{
         nav: [
             { text: 'network', link: '/network.html' },
-            { text: 'ecosystems', link: '/innovation.html' },
+            { text: 'engine', link: '/innovation.html' },
             { text: 'insights', link: '/insights.html' },
         ],
     },

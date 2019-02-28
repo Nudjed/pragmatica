@@ -1,8 +1,8 @@
 ---
 home: true
-title: A digital transformation consultancy.
-description: Pragmatica brings a fresh approach to consulting through investing in our partnerships with clients and sharing in the value we help create.
+title: Scale your organisations innovation power.
+description: We help corporates build innovation engines that create market-scale opportunities and drive digital P&L.
 actionText: learn more
-actionLink: /capability.html
+actionLink: /engine.html
 layout: Home
 ---

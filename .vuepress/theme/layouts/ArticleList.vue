@@ -19,7 +19,7 @@
     </div>
 
     <section class="py-8 -mt-32">
-      <div class="container sm:mx-auto sm:flex font-serif font-semibold">
+      <div class="container sm:mx-auto md:flex font-serif font-semibold">
 
         <div class="w-1/4">
           <div class="p-4 sm:max-w-xs my-4 bg-white">
