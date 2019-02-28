@@ -9,9 +9,9 @@ module.exports = {
     },
     themeConfig:{
         nav: [
-            { text: 'capability', link: '/capability.html' },
-            { text: 'projects', link: '/projects.html' },
-            { text: 'about us', link: '/about.html' },
+            { text: 'network', link: '/network.html' },
+            { text: 'ecosystems', link: '/innovation.html' },
+            { text: 'insights', link: '/insights.html' },
         ],
     },
     postcss: {
