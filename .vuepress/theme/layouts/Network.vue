@@ -18,7 +18,7 @@
       </div>
     </div>
 
- <Content />
+    <Content custom/>
     <ContactForm/>
     <Footer/>
   </div>

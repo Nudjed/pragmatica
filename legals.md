@@ -1,6 +1,7 @@
 ---
 title: Terms & Conditions & Privacy
 layout: Article
+tags: [tag1, tag2, tag3]
 ---
 
 <p class="mt-4 text-blue text-xl font-sans-serif font-normal">
