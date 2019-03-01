@@ -19,7 +19,7 @@
           </p>
         </div>
         <div class="flex-1">
-          <img src="/planet.svg">
+          <img src="enginecylinder.svg">
         </div>
       </header>
     </div>

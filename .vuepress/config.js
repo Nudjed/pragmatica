@@ -9,9 +9,9 @@ module.exports = {
     },
     themeConfig:{
         nav: [
-            { text: 'network', link: '/network.html' },
-            { text: 'engine', link: '/engine.html' },
-            { text: 'projects', link: '/projects.html' },
+            { text: 'network', link: './network.html' },
+            { text: 'engine', link: './engine.html' },
+            { text: 'projects', link: './projects.html' },
         ],
     },
     postcss: {

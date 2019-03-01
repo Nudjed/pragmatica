@@ -58,4 +58,7 @@ heroImage: /eye.svg
 <li>add "case studies" to navigation</li>
 <li>add customers to front page</li>
 <li>add all network partners</li>
+<li>debug nav</li>
+<li>Fix homepage - mobile view, image and buttons</li>
+<li>Link and test form</li>
 </ul>

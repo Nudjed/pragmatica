@@ -2,7 +2,7 @@
   <section class="bg-blue">
     <div class="container mx-auto font-serif font-semibold">
 
-      <form class="w-full sm:flex" name="contact" method="POST" netlify>
+      <form class="w-full sm:flex" name="contact" method="POST" data-netlify="true">
 
         <div class="p-4 sm:w-1/3 my-4">
           <h3 class="text-white text-left mb-3 text-3xl">Get in touch.</h3>
@@ -34,6 +34,10 @@
             <input class="appearance-none block w-full bg-grey-lighter text-grey-darker rounded py-3 px-4 font-sans-serif"
               name="email" id="email" type="email" placeholder="name@email.com" required>
           </div>
+          <p class="hidden">
+    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+     <div data-netlify-recaptcha="true"></div>
+  </p>
 
         </div>
 
