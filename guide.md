@@ -54,4 +54,8 @@ heroImage: /eye.svg
     <li>Deploy to netlify and test forms</li>
     <li>Remove tailwind classes no used on site</li>
     <li>...</li>
+    <li>privacy policy</li>
+<li>add "case studies" to navigation</li>
+<li>add customers to front page</li>
+<li>add all network partners</li>
 </ul>

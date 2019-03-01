@@ -1,6 +1,6 @@
 module.exports = {
     title: 'Pragmatica',
-    description: "Consulting, venturing, delivery",
+    description: "Innovation Ecosystem Builders",
     markdown: {
         anchor: {
             permalink: false,
@@ -10,8 +10,8 @@ module.exports = {
     themeConfig:{
         nav: [
             { text: 'network', link: '/network.html' },
-            { text: 'engine', link: '/innovation.html' },
-            { text: 'insights', link: '/insights.html' },
+            { text: 'engine', link: '/engine.html' },
+            { text: 'projects', link: '/projects.html' },
         ],
     },
     postcss: {
