@@ -48,6 +48,11 @@ heroImage: /eye.svg
 
 <h4 class="text-green mt-4">Issues / Enhancements</h4>
 <ul>
+<li>Consistent styling</li>
+<li>Projects page</li>
+<li>Network page</li>
+<li>add all network partners</li>
+<li>add customers to front page</li>
     <li>No responsive work done - need to add the css for mobile</li>
     <li>Dynamic tags - drive by the tags on projects</li>
     <li>Error handling when no hero image on Layout.vue</li>
@@ -55,10 +60,34 @@ heroImage: /eye.svg
     <li>Remove tailwind classes no used on site</li>
     <li>...</li>
     <li>privacy policy</li>
-<li>add "case studies" to navigation</li>
-<li>add customers to front page</li>
-<li>add all network partners</li>
 <li>debug nav</li>
 <li>Fix homepage - mobile view, image and buttons</li>
-<li>Link and test form</li>
+<li>Mobile padding and margins</li>
+<li>header images</li>
+<li>white behind text</li>
+<li>Consistent styling of headers, buttons, boxes</li>
+<li>Projects page</li>
+<li>Network page</li>
+<li>...</li>
 </ul>
+<!--
+Paul Teather
+Warren Fauvel
+--
+Ashley Cooper
+Linden Holliday
+Manu Gupta
+Gavin Heavyside
+Gareth Jones
+--
+Niels Thone
+Nic Oliver
+Chris Ganje
+Leslie Depond
+Lee Sharma
+David Janczewski
+James Ward
+Matt Stone (TestDrives2U)
+William McDonald (I’m Football)
+Owen Derbyshire
+-->

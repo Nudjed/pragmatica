@@ -136,10 +136,8 @@
               <h4 class="text-lg text-green-darker">Platform Stakeholders:</h4>
               <ul>
                 <li>Global Leadership - ensuring strategic alignment and support through clear metrics and evidence-based insights</li>
-                <li>
-                  Internal Teams - platforms to promote buy-in and encourage support and further insights from internal teams</li>
-                  <li>Market Influencers - communicate innovation value throughout project-pipeline
-                </li>
+                <li>Internal Teams - platforms to promote buy-in and encourage support and further insights from internal teams</li>
+                <li>Market Influencers - communicate innovation value throughout project-pipeline</li>
                 <li>External Innovators - engaging and managing your innovation partners to ensure alignment, compliance and delivery</li>
                 <li>Customers - identifying and engaging key customer groups as you begin go-to-market activities</li>
                 <li>Regulators - ensuring well-documented audit and compliance trails exist for each project</li>
