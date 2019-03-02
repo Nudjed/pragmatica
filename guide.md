@@ -48,10 +48,11 @@ heroImage: /eye.svg
 
 <h4 class="text-green mt-4">Issues / Enhancements</h4>
 <ul>
-<li>Consistent styling</li>
+
 <li>Projects page</li>
-<li>Network page</li>
-<li>add all network partners</li>
+<li>Consistent styling</li>
+<li>Network page - company logos</li>
+<li>add all network partners linkedins</li>
 <li>add customers to front page</li>
     <li>No responsive work done - need to add the css for mobile</li>
     <li>Dynamic tags - drive by the tags on projects</li>
@@ -68,26 +69,6 @@ heroImage: /eye.svg
 <li>Consistent styling of headers, buttons, boxes</li>
 <li>Projects page</li>
 <li>Network page</li>
+<li>Rewrite intro text for engine</li>
 <li>...</li>
 </ul>
-<!--
-Paul Teather
-Warren Fauvel
---
-Ashley Cooper
-Linden Holliday
-Manu Gupta
-Gavin Heavyside
-Gareth Jones
---
-Niels Thone
-Nic Oliver
-Chris Ganje
-Leslie Depond
-Lee Sharma
-David Janczewski
-James Ward
-Matt Stone (TestDrives2U)
-William McDonald (I’m Football)
-Owen Derbyshire
--->
