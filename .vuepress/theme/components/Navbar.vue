@@ -60,11 +60,12 @@ export default {
     	this.open = !this.open
     },
   },
-  computed: {
-    userLinks () {
-      return this.$themeLocaleConfig.nav || this.$site.themeConfig.nav || []
-    },
-  }
+  //computed: {
+    //userLinks () {
+      //return this.$themeLocaleConfig.nav || this.$site.themeConfig.nav || []
+    //},
+  //}
 }
 </script>
+
 
