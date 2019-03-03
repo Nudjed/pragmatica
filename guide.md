@@ -1,7 +1,7 @@
 ---
 title: Guide.
 description: A how to guide for this site.
-heroImage: /eye.svg
+template: Home
 ---
 
 <h3 class="text-blue text-left mb-3 text-2xl">
