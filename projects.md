@@ -2,9 +2,7 @@
 blog_index: false
 layout: Projects
 title: Innovation Projects
-description: Organisations are being transformed by digital. Often this is driven by their customers, sometimes by
-their team and occasionally by their competition. We get involved when you, the leadership decides it’s time for
-change.
+description: Organisations are being transformed by digital. Often this is driven by their customers, sometimes by their team and occasionally by their competition. We get involved when you, the leadership decides it’s time for change.
 ---
 <section class="p-4">
     <div class="flex flex-wrap">
