@@ -14,14 +14,15 @@
 
       </a>
     </div>
+    <!--
     <div class="block sm:hidden">
       <button @click="toggle" class="flex items-center px-3 py-2 border-2 rounded text-white border-white-light hover:text-white hover:border-white">
         <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
       </button>
     </div>
+    -->
 
-    <div :class="open ? 'block': 'hidden'" class="w-full flex-grow sm:flex sm:items-center sm:w-auto sm:justify-end">
-
+    <div class="sm:flex sm:items-center sm:w-auto sm:justify-end">
       <div class="nav-item">
         <a
           class="text-xl font-medium font-serif block mt-4 lg:inline-block lg:mt-0 sm:ml-8 no-underline text-blue-lightest hover:white hover:underline"
@@ -48,7 +49,7 @@
 
 </template>
 
-<script>
+<!--<script>
 export default {
   data () {
   	return {
@@ -60,12 +61,12 @@ export default {
     	this.open = !this.open
     },
   },
-  //computed: {
-    //userLinks () {
-      //return this.$themeLocaleConfig.nav || this.$site.themeConfig.nav || []
-    //},
-  //}
+  computed: {
+    userLinks () {
+    return this.$themeLocaleConfig.nav || this.$site.themeConfig.nav || []
+    },
+  }
 }
 </script>
-
+-->
 
