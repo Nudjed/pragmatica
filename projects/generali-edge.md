@@ -1,6 +1,7 @@
 ---
 title: Ecosistemi Digitali - Generali
-description: With over 50,000 staff, 150,000 agents and 57 million customers spread over 50 countries, leveraging the resources required to deliver meaningful Innovation & Digital Transformation is a complex challenge.
+description: >
+With over 50,000 staff, 150,000 agents and 57 million customers spread over 50 countries, leveraging the resources required to deliver meaningful Innovation & Digital Transformation is a complex challenge.
 layout: Article
 tags: [tag1, tag2, tag3]
 ---

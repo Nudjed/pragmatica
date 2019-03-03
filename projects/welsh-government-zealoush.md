@@ -1,6 +1,7 @@
 ---
 title: Social Innovation for Wales.
-description: With mutiple challenges in economic growth, population change and service demand, Welsh Government are
+description: >
+With mutiple challenges in economic growth, population change and service demand, Welsh Government are
 keen to find ways to accelerate the growth of digital businesses in Wales, particularly those focused on Social Innovation.
 layout: Article
 tags: [tag1, tag2, tag3]

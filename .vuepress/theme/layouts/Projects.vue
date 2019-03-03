@@ -5,11 +5,9 @@
       <div class="md:max-w-sm mx-auto px-4">
         <h1 class="font-serif font-semibold text-4xl py-6 border-b-3 border-green leading-tight">{{ data.title
           }}</h1>
-        <p class="font-sans-serif font-medium text-lg py-6">{{ data.description }}</p>
-        <p v-if="data.actionText && data.actionLink">
-          <router-link class="no-underline font-serif font-semibold text-lg text-blue block bg-white w-64 py-2 px-4 my-4 mb-8 text-center shadow-green border-2 border-green hover:bg-green hover:shadow-white hover:text-white"
-            :to="actionLink.link">{{ actionLink.text }}</router-link>
-        </p>
+        <p class="font-sans-serif font-medium text-lg py-6">Organisations are being transformed by digital. Often this is driven by their customers, sometimes by
+their team and occasionally by their competition. We get involved when you, the leadership decides it’s time for
+change.</p>
       </div>
       <div class="text-center">
         <img src="/transport.svg" class="w-full">

@@ -1,6 +1,7 @@
 ---
 title: Market Entry for EE.
-description: Everything Everywhere was looking to leverage opportunities arising from cloud-based technologies to drive revenues from data services.
+description: >
+Everything Everywhere was looking to leverage opportunities arising from cloud-based technologies to drive revenues from data services.
 layout: Article
 tags: [tag1, tag2, tag3]
 ---

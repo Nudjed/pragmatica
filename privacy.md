@@ -16,7 +16,7 @@ tags: [tag1, tag2, tag3]
 
 <h3>Types of Data Collected</h3>
 <h4>Personal Data</h4>
-<p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to: Email address, Name, Address, State, Province, ZIP/Postal code, City, Cookies and Usage Data.</p>
+<p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to - Email address, Name, Address, State, Province, ZIP/Postal code, City, Cookies and Usage Data.</p>
 
 <p>We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.</p>
 
@@ -80,7 +80,7 @@ Please note that we may ask you to verify your identity before responding to suc
 
 <p>You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.</p>
 
-<p>For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://www.google.com/intl/en/policies/privacy</p>
+<p>For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page - https://www.google.com/intl/en/policies/privacy</p>
 
 <h3>Links To Other Sites</h3>
 <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
@@ -100,5 +100,5 @@ Please note that we may ask you to verify your identity before responding to suc
 <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
 
 <h3>Contact Us</h3>
-<p>If you have any questions about this Privacy Policy, please contact us at: </p>
+<p>If you have any questions about this Privacy Policy, please contact us at - </p>
 <p>Springfield House, Springfield Road, Horsham, West Sussex, RH12 2RG</p>

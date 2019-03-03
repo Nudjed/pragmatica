@@ -1,8 +1,6 @@
 ---
 title: Innovation Engine
 layout: Engine
-description: Though every organisation is different, there are similarities. We've leveraged our experience in
-developing innovation engines to create a set of assets that you can use to accelerate your organisations build.
 ---
 <section class="font-sans-serif text-smooth bg-white antialiased leading-normal mx-auto p-8 bg-repeat bg-full" style="background-image: url('/dot.svg');">
 <div class="p-8">
