@@ -1,13 +1,9 @@
 ---
 title: Market Entry for EE.
-date: 2017-10-03
-description: Everything Everywhere was looking to leverage opportunities arising from cloud-based technologies to drive
-revenues from data services.
-content_type: project
-tags: [telco, digital, innovation]
+description: Everything Everywhere was looking to leverage opportunities arising from cloud-based technologies to drive revenues from data services.
 layout: Article
+tags: [tag1, tag2, tag3]
 ---
-<!--Project Start -->
 <div class="bg-white">
     <h3 class="text-green pt-4">Challenge</h3>
     <p class="py-4 font-bold font-green-dark">The challenge was to develop and deploy customer propositions that

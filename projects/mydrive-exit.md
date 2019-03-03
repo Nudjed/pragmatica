@@ -1,12 +1,8 @@
 ---
 title: Taking a Telematics Startup to Exit.
-date: 2016-01-03
-description: MyDrive Solutions a bootstrapped start-up with minimum viable telematics proposition was
-looking to entry insurance market providing solutions for pay-how-you-drive product and transition from a
-two-person team to exciting commercial entity.
-tags: [startup, portfolio, insurance]
-content_type: project
+description: MyDrive Solutions a bootstrapped start-up with minimum viable telematics proposition was looking to entry insurance market providing solutions for pay-how-you-drive product and transition from a two-person team to exciting commercial entity.
 layout: Article
+tags: [tag1, tag2, tag3]
 ---
 
 <div class="bg-white">
@@ -15,7 +11,7 @@ layout: Article
         significantly increase new revenue stream opportunities, whilst working within the constraints of
         joint-venture ownership and legacy.</p>
 </div>
-<div class="">
+<div class="md:-mx-32">
     <img src="/globalskills.svg" class="w-100">
 </div>
 <div class="bg-white py-4">

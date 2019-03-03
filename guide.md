@@ -48,27 +48,25 @@ heroImage: /eye.svg
 
 <h4 class="text-green mt-4">Issues / Enhancements</h4>
 <ul>
-    <li>Single template with heroImage: /eye.svg </li>
+    <li>Projects index </li>
+    <li>project images</li>
     <li>Consistent styling of headers, buttons, boxes</li>
     <li>Network page - company logos</li>
     <li>Projects page - customer logos</li>
+        <li>Image sizes consistent on headers and engine </li>
+    <li>add all network partners linkedins</li>
+        <li>privacy policy</li>
+    <li>Homepage - mobile view, image and buttons</li>
     <li>Rewrite intro text for engine</li>
     <li>Consistent styling</li>
-            <li>Image sizes consistetn </li>
-    <li>project images</li>
-    <li>add all network partners linkedins</li>
-    <li>No responsive work done - need to add the css for mobile</li>
+        <li>Mobile padding and margins</li>
     <li>Dynamic tags - drive by the tags on projects</li>
     <li>Error handling when no hero image on Layout.vue</li>
-    <li>Deploy to netlify and test forms</li>
     <li>Remove tailwind classes no used on site</li>
-    <li>...</li>
-    <li>privacy policy</li>
-    <li>debug nav</li>
-    <li>Homepage - mobile view, image and buttons</li>
-    <li>Mobile padding and margins</li>
     <li>header images</li>
     <li>white behind text</li>
     <li>test on mobile devices</li>
+        <li>Single template with heroImage: /eye.svg </li>
+<li>move to tailwind/simeple js</li>
     <li>...</li>
 </ul>

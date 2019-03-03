@@ -17,9 +17,10 @@
         </header>
       </div>
     </div>
-
+<div style="background-image: url('/dot.svg');" class="bg-full bg-repeat">
     <Content custom/>
     <ContactForm/>
+</div>
     <Footer/>
   </div>
 </template>

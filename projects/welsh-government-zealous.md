@@ -1,12 +1,8 @@
 ---
 title: Social Innovation for Wales.
-date: 2018-10-04
-description: With mutiple challenges in economic growth, population change and service demand, Welsh Government are
-keen to find ways to accelerate the growth of digital businesses in Wales, particularly those focused on Social
-Innovation.
-tags: [government, social, digital]
-content_type: project
+description: With mutiple challenges in economic growth, population change and service demand, Welsh Government are keen to find ways to accelerate the growth of digital businesses in Wales, particularly those focused on Social Innovation.
 layout: Article
+tags: [tag1, tag2, tag3]
 ---
 <div class="bg-white">
     <h3 class="text-green pt-4">Challenge</h3>
@@ -16,8 +12,8 @@ layout: Article
         than the average public sector, low GDP per capita and a broad range of social challenges that will see costs
         increase over time.</p>
 </div>
-<div class="">
-    <img src="/globalskills.svg" class="w-100">
+<div class="md:-mx-32">
+    <img src="/zealous.gif" class="w-100">
 </div>
 <div class="bg-white py-4">
     <h3 class="text-green t-4">Solution</h3>
