@@ -1,12 +1,11 @@
 ---
 title: Social Innovation for Wales.
-description: >
-With mutiple challenges in economic growth, population change and service demand, Welsh Government are
-keen to find ways to accelerate the growth of digital businesses in Wales, particularly those focused on Social Innovation.
 layout: Article
 tags: [tag1, tag2, tag3]
 ---
 <div class="bg-white">
+<p class="text-blue text-xl font-sans-serif font-medium">With mutiple challenges in economic growth, population change and service demand, Welsh Government are
+keen to find ways to accelerate the growth of digital businesses in Wales, particularly those focused on Social Innovation.</p>
 <h3 class="text-green pt-4">Challenge</h3>
 <p class="py-4">Wales is a country of ~2m people, with a strong cultural identity, located in the West of the
 United Kingdom. As with many regions Wales has struggled with the challenge of developing alternatives to an

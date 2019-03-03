@@ -18,9 +18,6 @@
       <router-link class="text-green-light no-underline hover:underline block my-4" :to="$withBase('/projects.html')">
         < back to projects</router-link> <h1 class="text-blue text-left mb-3 py-3 text-5xl font-serif font-semibold border-b-2 border-green leading-tight">{{
           this.$page.frontmatter.title }}</h1>
-
-          <p class="text-blue text-xl font-sans-serif font-medium">{{ this.$page.frontmatter.description }}</p>
-
           <Content />
 
           <p class="text-green border-t-2 border-green pt-2 mt-8 font-sans-serif font-normal hidden">{{

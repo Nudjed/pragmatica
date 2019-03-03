@@ -1,11 +1,10 @@
 ---
 title: Ecosistemi Digitali - Generali
-description: >
-With over 50,000 staff, 150,000 agents and 57 million customers spread over 50 countries, leveraging the resources required to deliver meaningful Innovation & Digital Transformation is a complex challenge.
 layout: Article
 tags: [tag1, tag2, tag3]
 ---
 <div class="bg-white">
+<p class="text-blue text-xl font-sans-serif font-medium">With over 50,000 staff, 150,000 agents and 57 million customers spread over 50 countries, leveraging the resources required to deliver meaningful Innovation & Digital Transformation is a complex challenge.</p>
 <h3 class="text-green pt-4">Challenge</h3>
 <p class="py-4">Generali is one of the worlds leading insurers with €68bn in premiums globally. Over the last two
 years, the leadership team have delivered an industrial turnaround strategy, focused on streamlining

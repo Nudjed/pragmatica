@@ -1,11 +1,10 @@
 ---
 title: Market Entry for EE.
-description: >
-Everything Everywhere was looking to leverage opportunities arising from cloud-based technologies to drive revenues from data services.
 layout: Article
 tags: [tag1, tag2, tag3]
 ---
 <div class="bg-white">
+<p class="text-blue text-xl font-sans-serif font-medium">Everything Everywhere was looking to leverage opportunities arising from cloud-based technologies to drive revenues from data services.</p>
 <h3 class="text-green pt-4">Challenge</h3>
 <p class="py-4 font-bold font-green-dark">The challenge was to develop and deploy customer propositions that
 significantly increase new revenue stream opportunities, whilst working within the constraints of
