@@ -52,10 +52,8 @@ heroImage: /eye.svg
     <li>project images</li>
     <li>Consistent styling of headers, buttons, boxes</li>
     <li>Network page - company logos</li>
-    <li>Projects page - customer logos</li>
-        <li>Image sizes consistent on headers and engine </li>
+    <li>Image sizes consistent on headers and engine </li>
     <li>add all network partners linkedins</li>
-        <li>privacy policy</li>
     <li>Homepage - mobile view, image and buttons</li>
     <li>Rewrite intro text for engine</li>
     <li>Consistent styling</li>
@@ -66,7 +64,9 @@ heroImage: /eye.svg
     <li>header images</li>
     <li>white behind text</li>
     <li>test on mobile devices</li>
-        <li>Single template with heroImage: /eye.svg </li>
-<li>move to tailwind/simeple js</li>
+    <li>test all links</li>
+    <li>Single template with heroImage: /eye.svg </li>
+    <li>move to tailwind/simeple js</li>
+    <li>make legals prettier</li>
     <li>...</li>
 </ul>

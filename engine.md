@@ -1,7 +1,7 @@
 ---
 blog_index: false
 title: Innovation Engine
-description: Needs a new description.
+description: Though every organisation is different, there are similarities. We've leveraged our experience in developing innovation engines to create a set of assets that you can leverage to accelerate your organisations build.
 layout: Engine
 
 ---
