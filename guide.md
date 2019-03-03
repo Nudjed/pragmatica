@@ -22,20 +22,20 @@ heroImage: /eye.svg
 
 <table class="mt-4 w-2/3">
 <tr>
-    <th>Relative Path</th>
-    <th>Page Routing</th>
+<th>Relative Path</th>
+<th>Page Routing</th>
 </tr>
 <tr>
-    <td>/README.md</td>
-    <td>/</td>
+<td>/README.md</td>
+<td>/</td>
 </tr>
 <tr>
-    <td>/guide/README.md</td>
-    <td>/guide/</td>
+<td>/guide/README.md</td>
+<td>/guide/</td>
 </tr>
 <tr>
-    <td>/about.md</td>
-    <td>/about.html</td>
+<td>/about.md</td>
+<td>/about.html</td>
 </tr>
 </table>
 
@@ -48,22 +48,22 @@ heroImage: /eye.svg
 
 <h4 class="text-green mt-4">Issues / Enhancements</h4>
 <ul>
-    <li>Consistent styling of headers, buttons, boxes</li>
-    <li>Network page - company logos</li>
-    <li>Image sizes consistent on headers and engine </li>
-    <li>add all network partners linkedins and make more clickable</li>
-    <li>Homepage - mobile view, image and buttons and content</li>
-    <li>Mobile padding and margins</li>
-    <li>Dynamic tags - drive by the tags on projects</li>
-    <li>Error handling when no hero image on Layout.vue</li>
-    <li>Remove tailwind classes no used on site</li>
-    <li>header images</li>
-    <li>white behind text</li>
-    <li>test on mobile devices</li>
-    <li>test all links</li>
-    <li>Hi Res project images</li>
-    <li>Single template with heroImage: /eye.svg </li>
-    <li>move to tailwind/simeple js</li>
-    <li>make legals prettier</li>
-    <li>...</li>
+<li>Consistent styling of headers, buttons, boxes</li>
+<li>Network page - company logos</li>
+<li>Image sizes consistent on headers and engine </li>
+<li>add all network partners linkedins and make more clickable</li>
+<li>Homepage - mobile view, image and buttons and content</li>
+<li>Mobile padding and margins</li>
+<li>Dynamic tags - drive by the tags on projects</li>
+<li>Error handling when no hero image on Layout.vue</li>
+<li>Remove tailwind classes no used on site</li>
+<li>header images</li>
+<li>white behind text</li>
+<li>test on mobile devices</li>
+<li>test all links</li>
+<li>Hi Res project images</li>
+<li>Single template with heroImage: /eye.svg </li>
+<li>move to tailwind/simeple js</li>
+<li>make legals prettier</li>
+<li>...</li>
 </ul>
