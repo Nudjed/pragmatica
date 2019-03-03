@@ -8,8 +8,8 @@
           }}</h1>
         <p class="font-sans-serif font-medium text-xl py-6">{{ data.description }}</p>
         <p v-if="data.actionText && data.actionLink">
-          <router-link class="no-underline font-serif font-semibold text-lg text-blue block bg-white w-64 py-2 px-4 my-4 mb-8 text-center shadow-green border-2 border-green hover:bg-green hover:shadow-white hover:text-white"
-            :to="actionLink.link">{{ actionLink.text }}</router-link>
+          <a class="no-underline font-serif font-semibold text-lg text-blue block bg-white w-64 py-2 px-4 my-4 mb-8 text-center shadow-green border-2 border-green hover:bg-green hover:shadow-white hover:text-white"
+            href="engine.html" >learn more</a>
         </p>
       </div>
       <div class="text-center mx-auto">

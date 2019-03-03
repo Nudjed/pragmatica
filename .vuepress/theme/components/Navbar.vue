@@ -1,8 +1,7 @@
 <template>
   <nav class="flex items-center justify-between flex-wrap pt-8 text-white container mx-auto pb-8 px-4 sm:px-0">
     <div class="flex items-center flex-no-shrink text-white mr-6">
-      <router-link :to="$localePath" class="">
-
+      <a href="http://pragmatica.network" class="">
         <svg class="h-16" viewBox="0 0 239 255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         <g id="Logo/sq-icon-white-green" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
             <rect id="Rectangle-6-Copy-3" fill="#00A89F" x="30" y="30" width="209" height="225"></rect>
@@ -13,7 +12,7 @@
         </g>
         </svg>
 
-      </router-link>
+      </a>
     </div>
     <div class="block sm:hidden">
       <button @click="toggle" class="flex items-center px-3 py-2 border-2 rounded text-white border-white-light hover:text-white hover:border-white">
@@ -21,16 +20,29 @@
       </button>
     </div>
 
-    <div :class="open ? 'block': 'hidden'" class="w-full flex-grow sm:flex sm:items-center sm:w-auto sm:justify-end" v-if="userLinks.length">
+    <div :class="open ? 'block': 'hidden'" class="w-full flex-grow sm:flex sm:items-center sm:w-auto sm:justify-end">
 
-      <div class="nav-item" v-for="item in userLinks" :key="item.link">
-        <router-link
+      <div class="nav-item">
+        <a
           class="text-xl font-medium font-serif block mt-4 lg:inline-block lg:mt-0 sm:ml-8 no-underline text-blue-lightest hover:white hover:underline"
-          :to="item.link">
-          {{ item.text }}
-        </router-link>
+          href="network.html">
+          network
+        </a>
       </div>
-
+      <div class="nav-item">
+        <a
+          class="text-xl font-medium font-serif block mt-4 lg:inline-block lg:mt-0 sm:ml-8 no-underline text-blue-lightest hover:white hover:underline"
+          href="engine.html">
+          engine
+        </a>
+      </div>
+      <div class="nav-item">
+        <a
+          class="text-xl font-medium font-serif block mt-4 lg:inline-block lg:mt-0 sm:ml-8 no-underline text-blue-lightest hover:white hover:underline"
+          href="projects.html">
+          projects
+        </a>
+      </div>
     </div>
   </nav>
 
