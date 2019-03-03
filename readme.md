@@ -37,7 +37,7 @@ it’s time for change.</p>
 </div>
 </div>
 <p class="text-center">
-<a href="/engine.html" class="no-underline font-serif font-semibold text-lg text-blue block bg-white w-64 py-2 px-4 my-4 mb-8 text-center shadow-green border-2 border-green hover:bg-green hover:shadow-white hover:text-white">learn
+<a href="/engine.html" class="mx-auto no-underline font-serif font-semibold text-xl text-blue block bg-white w-64 py-2 px-4 my-4 mb-8 text-center shadow-green border-2 border-green hover:bg-green hover:shadow-white hover:text-white">learn
 more</a>
 </p>
 </div>
