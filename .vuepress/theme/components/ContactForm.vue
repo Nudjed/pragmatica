@@ -4,7 +4,7 @@
       <form class="w-full sm:flex" name="contact" method="POST" data-netlify="true">
         <div class="p-4 sm:w-1/3 my-4">
           <h3 class="text-white text-left mb-3 text-3xl">Get in touch.</h3>
-          <p class="text-green font-sans-serif font-medium text-left text-base">If your organisation wants to drive
+          <p class="text-green-lighter font-sans-serif font-medium text-left text-base">If your organisation wants to drive
             innovation, we are here to support you.</p>
         </div>
 
@@ -45,7 +45,6 @@
           </div>
 
           <div class="flex justify-end mb-2">
-            <div data-netlify-recaptcha="true"></div>
             <button class="text-xl border-b-2 block py-2 px-8 border-white leading-none bg-white text-blue shadow-green font-bold whitespace-no-wrap hover:bg-green hover:shadow-white hover:text-white hover:border-green"
               type="submit">Submit</button>
           </div>
