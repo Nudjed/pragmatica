@@ -48,11 +48,14 @@ heroImage: /eye.svg
 
 <h4 class="text-green mt-4">Issues / Enhancements</h4>
 <ul>
-    <li>Projects page</li>
-    <li>Consistent styling</li>
+    <li>Single template with heroImage: /eye.svg </li>
+    <li>Consistent styling of headers, buttons, boxes</li>
     <li>Network page - company logos</li>
+    <li>Projects page - customer logos</li>
+    <li>Rewrite intro text for engine</li>
+    <li>Consistent styling</li>
+    <li>project images</li>
     <li>add all network partners linkedins</li>
-    <li>Projects page - customers</li>
     <li>No responsive work done - need to add the css for mobile</li>
     <li>Dynamic tags - drive by the tags on projects</li>
     <li>Error handling when no hero image on Layout.vue</li>
@@ -61,13 +64,10 @@ heroImage: /eye.svg
     <li>...</li>
     <li>privacy policy</li>
     <li>debug nav</li>
-    <li>Fix homepage - mobile view, image and buttons</li>
+    <li>Homepage - mobile view, image and buttons</li>
     <li>Mobile padding and margins</li>
     <li>header images</li>
     <li>white behind text</li>
-    <li>Consistent styling of headers, buttons, boxes</li>
-    <li>Projects page</li>
-    <li>Network page</li>
-    <li>Rewrite intro text for engine</li>
+    <li>test on mobile devices</li>
     <li>...</li>
 </ul>
