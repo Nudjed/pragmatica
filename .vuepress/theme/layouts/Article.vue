@@ -1,5 +1,6 @@
 <template>
-  <div class="bg-white pt-8">
+  <div class="font-sans-serif text-smooth bg-white antialiased leading-normal mx-auto p-4 bg-repeat bg-full"
+      style="background-image: url('/dot.svg');">
     <header class="text-white container mx-auto pb-8">
       <router-link :to="$localePath" class>
         <svg
@@ -29,14 +30,14 @@
       </router-link>
     </header>
 
-    <section class="max-w-lg container mx-auto py-4 px-8">
+    <section class="max-w-lg container mx-auto py-4 md:px-8">
       <router-link
-        class="text-green text-xl no-underline block my-4"
+        class="text-green-light no-underline hover:underline block my-4"
         :to="$withBase('/projects.html')"
-      >< back to articles</router-link>
+      >< back to projects</router-link>
 
       <h1
-        class="text-blue text-left mb-3 py-3 text-5xl font-serif font-semibold border-b-2 border-green"
+        class="text-blue text-left mb-3 py-3 text-5xl font-serif font-semibold border-b-2 border-green leading-tight"
       >{{ this.$page.frontmatter.title }}</h1>
 
       <p
@@ -45,9 +46,9 @@
 
       <Content/>
 
-      <h3
-        class="text-green border-t-2 border-green pt-2 mt-4 font-sans-serif font-normal"
-      >{{ this.$page.frontmatter.tags.toString() }}</h3>
+      <p
+        class="text-green border-t-2 border-green pt-2 mt-8 font-sans-serif font-normal"
+      >{{ this.$page.frontmatter.tags.toString() }}</p>
     </section>
   </div>
 </template>

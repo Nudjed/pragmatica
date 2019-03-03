@@ -54,6 +54,7 @@ heroImage: /eye.svg
     <li>Projects page - customer logos</li>
     <li>Rewrite intro text for engine</li>
     <li>Consistent styling</li>
+            <li>Image sizes consistetn </li>
     <li>project images</li>
     <li>add all network partners linkedins</li>
     <li>No responsive work done - need to add the css for mobile</li>

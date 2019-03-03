@@ -25,9 +25,10 @@
     </div>
 
     <section
-      class="font-sans-serif text-smooth bg-white antialiased leading-normal mx-auto p-4 bg-no-repeat bg-full"
+      class="font-sans-serif text-smooth bg-white antialiased leading-normal mx-auto p-4 bg-repeat bg-full"
       style="background-image: url('/blueprints.svg');"
     >
+    <div class="bg-repeat bg-full" style="background-image: url('/dot.svg');">
       <h1
         class="font-serif font-semibold text-4xl py-6 leading-tight text-center"
       >Build around our Innovation Engine.</h1>
@@ -61,6 +62,7 @@
             class="no-underline font-serif font-semibold text-lg text-blue block bg-white w-64 py-2 px-4 my-4 mb-8 text-center shadow-green border-2 border-green hover:bg-green hover:shadow-white hover:text-white"
           >Review our Engine</a>
         </p>
+      </div>
       </div>
     </section>
 
