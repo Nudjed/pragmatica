@@ -3,7 +3,7 @@ home: true
 title: Scale your organisations innovation power.
 description: We help corporates build innovation engines that create market-scale opportunities and drive digital P&L.
 actionText: learn more
-actionLink: engine
+actionLink: engine.html
 layout: Home
 ---
 <section class="font-sans-serif text-smooth bg-white antialiased leading-normal mx-auto p-4 bg-repeat bg-full" style="background-image: url('/blueprints.svg');">
@@ -37,7 +37,7 @@ it’s time for change.</p>
 </div>
 </div>
 <p class="text-center">
-<a href="/engine" class="no-underline font-serif font-semibold text-lg text-blue block bg-white w-64 py-2 px-4 my-4 mb-8 text-center shadow-green border-2 border-green hover:bg-green hover:shadow-white hover:text-white">learn
+<a href="/engine.html" class="no-underline font-serif font-semibold text-lg text-blue block bg-white w-64 py-2 px-4 my-4 mb-8 text-center shadow-green border-2 border-green hover:bg-green hover:shadow-white hover:text-white">learn
 more</a>
 </p>
 </div>

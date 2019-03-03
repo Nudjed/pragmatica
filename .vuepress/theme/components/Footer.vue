@@ -4,7 +4,7 @@
       <p>Springfield House, Springfield Road, Horsham, West Sussex, RH12 2RG</p>
       <p>Pragmatica Consulting Ltd. is registered in the UK - 06895638</p>
       <p>
-        <a href="/privacy" class="text-white no-underline hover:underline hover:text-blue-lighter">Privacy</a> | <a href="/terms" class="text-white no-underline hover:underline hover:text-blue-lighter">Terms</a> |
+        <a href="/privacy.html" class="text-white no-underline hover:underline hover:text-blue-lighter">Privacy</a> | <a href="/terms.html" class="text-white no-underline hover:underline hover:text-blue-lighter">Terms</a> |
         Copyright Pragmatica Consulting Ltd. 2019
       </p>
     </div>

@@ -40,7 +40,7 @@ aligned to measure value return over time
 </div>
 <!--./Engine cycles-->
 <p>
-<a href="/projects" class="no-underline font-serif font-semibold text-lg text-blue block bg-white w-64 py-2 px-4 my-4 mb-8 mx-auto text-center shadow-green border-2 border-green hover:bg-green hover:shadow-white hover:text-white">see
+<a href="/projects.html" class="no-underline font-serif font-semibold text-lg text-blue block bg-white w-64 py-2 px-4 my-4 mb-8 mx-auto text-center shadow-green border-2 border-green hover:bg-green hover:shadow-white hover:text-white">see
 our engine running</a>
 </p>
 </div>
@@ -84,7 +84,7 @@ Take a look at our portfolio/network >
 </ul>
 </div>
 <p>
-<a href="/projects" class="no-underline font-serif font-semibold text-lg text-blue block bg-white w-64 py-2 px-4 my-4 mb-8 mx-auto text-center shadow-green border-2 border-green hover:bg-green hover:shadow-white hover:text-white">take
+<a href="/projects.html" class="no-underline font-serif font-semibold text-lg text-blue block bg-white w-64 py-2 px-4 my-4 mb-8 mx-auto text-center shadow-green border-2 border-green hover:bg-green hover:shadow-white hover:text-white">take
 a look at our network</a>
 </p>
 <!--./Engine cycles-->

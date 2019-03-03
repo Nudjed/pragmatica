@@ -45,7 +45,7 @@
           </div>
 
           <div class="flex justify-end mb-2">
-            <button class="text-xl border-b-2 block py-2 px-8 border-white leading-none bg-white text-blue shadow-green font-bold whitespace-no-wrap hover:bg-green hover:shadow-white hover:text-white hover:border-green"
+            <button class="text-xl border-b-2 block py-2 px-8 border-white leading-none bg-white text-blue shadow-green font-bold hover:bg-green hover:shadow-white hover:text-white hover:border-green"
               type="submit">Submit</button>
           </div>
         </div>
