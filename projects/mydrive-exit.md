@@ -11,8 +11,8 @@ tags: [tag1, tag2, tag3]
         significantly increase new revenue stream opportunities, whilst working within the constraints of
         joint-venture ownership and legacy.</p>
 </div>
-<div class="md:-mx-32">
-    <img src="/globalskills.svg" class="w-100">
+<div class="md:-mx-32 text-center">
+    <img src="/mydrive.png" class="w-100">
 </div>
 <div class="bg-white py-4">
     <h3 class="text-green t-4">Solution</h3>

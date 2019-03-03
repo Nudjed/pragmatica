@@ -12,7 +12,7 @@ tags: [tag1, tag2, tag3]
         than the average public sector, low GDP per capita and a broad range of social challenges that will see costs
         increase over time.</p>
 </div>
-<div class="md:-mx-32">
+<div class="md:-mx-32 text-center">
     <img src="/zealous.gif" class="w-100">
 </div>
 <div class="bg-white py-4">

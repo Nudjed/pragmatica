@@ -8,7 +8,7 @@ tags: [tag1, tag2, tag3]
 <h3 class="text-green pt-4">Challenge</h3>
 <p class="py-4">Generali is one of the worlds leading insurers with €68bn in premiums globally. Over the last two years, the leadership team have delivered an industrial turnaround strategy, focused on streamlining operations, paving the way for the next phase of development. The new strategy “Generali 2021”, which includes a €1bn investment into Innovation & Digital Transformation, ultimately aiming to deliver higher growth, with consistent profit %age.</p>
 </div>
-<div class="">
+<div class="md:-mx-32 text-center">
 <img src="/EDGE.svg" class="w-100">
             </div>
             <div class="bg-white py-4">
