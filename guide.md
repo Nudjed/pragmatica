@@ -49,6 +49,7 @@ template: Home
 <h4 class="text-green mt-4">Issues / Enhancements</h4>
 <ul>
 <li>Consistent styling of headers, buttons, boxes</li>
+<li>fix JS</li>
 <li>Network page - company logos</li>
 <li>Image sizes consistent on headers and engine </li>
 <li>add all network partners linkedins and make more clickable</li>
